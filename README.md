@@ -53,6 +53,10 @@ The dataset contains:
    Calculations and visualizations that show:
     - Total revenue generated from different coffee types.
     - Average order size and revenue per customer.
+  
+### Final Coffee Orders Analysis Dashboard
+visualization:
+![Dashboard](https://github.com/gautamnakum40/Coffee_Orders_Analysis_Using_Advanced_Excel/blob/main/img/Picture1.png)
 
 ### Insights
 Here’s how this project can provide real-time insights to solve business problems:
